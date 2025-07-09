@@ -1,4 +1,4 @@
-# CAILA-BOT   ![截屏2025-05-13 11 32 25](https://github.com/user-attachments/assets/16ddc13b-42ff-43eb-a8fd-46764b4b7f98)
+# CAILA-BOT   ![截屏2025-07-10 11 32 25](https://github.com/CAILA-BASE/BOT/blob/main/443059442-16ddc13b-42ff-43eb-a8fd-46764b4b7f98.png)
 
 ## Overview
 
