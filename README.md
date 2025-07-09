@@ -1,10 +1,11 @@
+
 # CAILA-BOT   ![截屏2025-07-10 11 32 25](https://github.com/CAILA-BASE/BOT/blob/main/443059442-16ddc13b-42ff-43eb-a8fd-46764b4b7f98.png)
 
 ## Overview
 
 CAILA AI Agent is an AI-powered travel and lifestyle recommendation engine based on real-time hyperlocal weather data and location-based services (LBS). It utilizes powerful modular architecture for data processing and reasoning, providing users with intelligent services covering dining, entertainment, and travel decision-making. Whether recommending the best dining spots under current weather conditions or creating personalized plans for family activities and outdoor sports, CAILA AI Agent delivers precise, actionable intelligent recommendations based on real-time meteorological and location information for both B2B developers and C2B users.
 
-This service can be integrated into map applications, social platforms, OTAs, lifestyle apps, and is also suitable for the AI Agent ecosystem, such as the MCP protocol on BNB Chain, providing Weather+LBS fusion intelligent travel and entertainment API support.
+This service can be integrated into map applications, social platforms, OTAs, lifestyle apps, and is also suitable for the AI Agent ecosystem, such as the MCP protocol on BASE Chain, providing Weather+LBS fusion intelligent travel and entertainment API support.
 
 
 ## CAILA AI Agent Architecture
@@ -571,7 +572,7 @@ Would you like directions to the trailhead or more information about the picnic 
 ```
 ### Future Plans: BASE Chain MCP Integration
 
-CAILA AI Agent plans to integrate with BNB Chain's Model Context Protocol (MCP), which will enable it to interact directly with blockchain networks as an AI Agent. This integration is currently under development and, once completed, will provide intelligent services based on weather and geographic location for the BNB Chain ecosystem.
+CAILA AI Agent plans to integrate with BASE Chain's Model Context Protocol (MCP), which will enable it to interact directly with blockchain networks as an AI Agent. This integration is currently under development and, once completed, will provide intelligent services based on weather and geographic location for the BNB Chain ecosystem.
 
 Integration Vision
 
