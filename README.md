@@ -572,7 +572,7 @@ Would you like directions to the trailhead or more information about the picnic 
 ```
 ### Future Plans: BASE Chain MCP Integration
 
-CAILA AI Agent plans to integrate with BASE Chain's Model Context Protocol (MCP), which will enable it to interact directly with blockchain networks as an AI Agent. This integration is currently under development and, once completed, will provide intelligent services based on weather and geographic location for the BNB Chain ecosystem.
+CAILA AI Agent plans to integrate with BASE Chain's Model Context Protocol (MCP), which will enable it to interact directly with blockchain networks as an AI Agent. This integration is currently under development and, once completed, will provide intelligent services based on weather and geographic location for the BASE Chain ecosystem.
 
 Integration Vision
 
@@ -585,7 +585,7 @@ Through the planned BASE Chain MCP integration, CAILA AI Agent will bring unique
 
 Planned Features
 
-CAILA AI Agent plans to provide the following features through BNB Chain MCP:
+CAILA AI Agent plans to provide the following features through BASE Chain MCP:
 
 1. Weather-Based Location Recommendations:
 
